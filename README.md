@@ -9,5 +9,7 @@ Es:
 ¡Este plugin de Staff Mode es uno de los más configurables de la historia! ¡Puede cambiar todos los mensajes en config.yml y message.yml!
 
 Required dependency: FormAPI
+
 Dépendance obligatoire : FormAPI 
+
 Dependencia requerida: FormAPI
