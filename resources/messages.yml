@@ -1,0 +1,40 @@
+# Plugin : By SlaxxyQC
+
+# Config : Staff Event
+
+staff-join: "&6[Staff] &dStaff &f{player} &dvien de ce Connecté sur le serveur !"
+staff-quit: "&6[Staff] &dStaff &f{player} &dvien de ce Déconnecté du serveur !"
+
+# Config : Le message envoyer quand on ce connecte dans le staffmode
+
+staffmode-title-enabled: "&6[Staff]\n&dActivé"
+staffmode-message-enabled: "&6[Staff] &dTu est en Mode Staff"
+
+# Config : Le message envoyer quand tu quitte le staffmode
+
+staffmode-title-disabled: "&6[Staff]\n&dDéactivé"
+staffmode-message-disabled: "&6[Staff] &dTu est plus en Mode Staff"
+
+# Config : Les couleur des message dans le StaffChat
+
+staffchat-send-message: "&6[Staff] &f{staff} &d> &6{message}"
+
+# Config : Les message du Freeze
+
+freeze-title: "&dTu est maintenant Frezze"
+freeze-message: "&6[Staff] &f{player} &dTu a été freeze par le staff &f{staff}"
+server-broadcast-freeze: "&6[Staff] &f{player} &da été freeze par le staff &f{staff}"
+
+unfreeze-title: "&6Tu a été defrezze !"
+unfreeze-message: "&6[Staff] &f{player} &dTu a été defreeze par le staff &f{staff}"
+server-broadcast-unfreeze: "&6[Staff] &f{player} &da été defreeze par le staff &f{staff}"
+
+freeze-message-leave: "&6[Staff] &f{player} &dC'est déconnecté en mode Frezze !"
+
+# Config : Les infos sur le joueur
+
+pinfo-message: "&6[Staff] &f{player}\n&fPing: &d{ping}\n&fHeal: &d{health}\n&fIp: &d{address}\n&fPlatform: &d{platform}"
+
+# Config : Message marquer quand le joueur c'est fait kick
+
+kicked-player: "&6[Serveur] &dTu a été kick par le staff &f{player}"

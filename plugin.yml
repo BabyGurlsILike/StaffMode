@@ -1,0 +1,24 @@
+# Plugin : By SlaxxyQC
+
+name: AdvancedStaffMode
+main: SlaxxyQC\StaffMode
+api: 4.0.0
+version: 1.0.0
+softdepend: FormAPI
+author: SlaxxyQC
+permissions:
+ staffmode.staff.cmd:
+  default: op
+  description: Perm pour StaffMode
+ staffmode.pinfo.cmd:
+  default: op
+  description: Perm pour les info
+ staffmode.freeze.cmd:
+  default: op
+  description: Perm pour freeze
+ staffmode.chat.cmd:
+  default: op
+  description: Perm pour le StaffChat
+ staffmode.join:
+  default: op
+  description: Perm pour le StaffModeJoin

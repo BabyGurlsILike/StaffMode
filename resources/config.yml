@@ -1,0 +1,16 @@
+# Plugin : By SlaxxyQC
+
+change-gamemode-in-staffmode: true
+allow-flight-in-staffmode: true
+allow-title-staffmode: true
+allow-message-staffmode: true
+allow-join-broadcast-staff: true
+allow-quit-broadcast-staff: true
+
+# Config : Frezze
+
+not-freeze-yourself: true
+allow-title-freeze: true
+allow-message-freeze: true
+allows-broadcast-freeze: true
+allow-quit-broadcast-freeze: true
